@@ -6,7 +6,7 @@ I am currently working as a researcher in [CVIP Lab](https://sites.google.com/si
 My current research interests include camera sensors, 2D & 3D image processing, and deep generative models. 
 <br><br>
 ### Find my publications [here](/publications/pub_list.md)
-### Read my blogs [here](/blogs/blog_lists.md).
+<!-- ### Read my blogs [here](/blogs/blog_lists.md). -->
 
 <br>
 
