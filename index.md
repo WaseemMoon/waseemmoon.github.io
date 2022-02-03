@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-I am currently working as a researcher in [CVIP Lab](https://sites.google.com/site/gachoncvip/home), Gachon University. I have completed my master's from the Department of Software (2019-2021) from Gachon University. My undergrad was from the Department of Electronics and Telecommunication Engineering from [University of Liberal Arts Bangladesh (ULAB)](https://ulab.edu.bd/) (2013-2018).
+I am currently working as a researcher in CVIP Lab, Gachon University. I have completed my master's from the Department of Software (2019-2021) from Gachon University. My undergrad was from the Department of Electronics and Telecommunication Engineering from [University of Liberal Arts Bangladesh (ULAB)](https://ulab.edu.bd/) (2013-2018).
 My current research interests include camera sensors, 2D & 3D image processing, and deep generative models. 
 <br><br>
 ### Find my publications [here](/publications/pub_list.md)
