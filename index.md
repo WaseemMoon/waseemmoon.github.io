@@ -7,7 +7,6 @@ I am a computer vision researcher with 3+ years of experience in image synthesis
 I have completed my master's from the Department of Software (2019-2021) from Gachon University, under the supervision of  [Prof. Yong Ju Jung](https://sites.google.com/site/coolyjjung/). I have completed my undergraduate studies from the Department of Electronics and Telecommunication Engineering from [University of Liberal Arts Bangladesh (ULAB)](https://ulab.edu.bd/) (2013-2017), under the supervision of [Dr. S. M. Mahbubur Rahman](https://eee.buet.ac.bd/faculty/details/dr-s-m-mahbubur-rahman).
 <br><br>
 ### Find my publications [here](/publications/pub_list.md)
-<!-- ### Read my blogs [here](/blogs/blog_lists.md). -->
 
 [//]: # (<br>)
 
