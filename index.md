@@ -2,9 +2,9 @@
 
 *Hi there 👋*
 
-I am a computer vision researcher with 3+ years of experience in image synthesis, stereo vision, bio-inspired sensors, and generative models. I am currently working as a researcher in [CVIP Lab](https://sites.google.com/site/gachoncvip/home), Gachon University. My current research interests lie in modeling visual perception systems, camera sensors, 2D/3D image processing, and deep generative models.
+I am an information security researcher with 5+ years of experience in network security, quantum information theory, stegnography, watermarking and image encryption. I am currently working as a researcher at Information Security and Machine Learning Lab, South Korea. My current research interests lie in quantum information processing and cryptography.
 
-I have completed my master's from the Department of Software (2019-2021) from Gachon University, under the supervision of  [Prof. Yong Ju Jung](https://sites.google.com/site/coolyjjung/). I have completed my undergraduate studies from the Department of Electronics and Telecommunication Engineering from [University of Liberal Arts Bangladesh (ULAB)](https://ulab.edu.bd/) (2013-2017), under the supervision of [Dr. S. M. Mahbubur Rahman](https://eee.buet.ac.bd/faculty/details/dr-s-m-mahbubur-rahman).
+I have completed my master's from the Department of Electrical Engineering (2016-2018) from Institute of Space Technology, Pakistan. I have completed my undergraduate studies from the Department of Electronics Engineering from COMSATS, Pakistan.
 <br><br>
 ### Find my publications [here](/publications/pub_list.md)
 
